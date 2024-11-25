@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Mohamed Elbalky</h1>
 <h3 align="center">I Am A Python Developer</h3>
 
-- 🔭 Open to work
+- 🔭 Full Stack Developer at SIA Force
 
 - 🌱 I’m currently learning **Data Analysis**
 
-- 💬 Ask me about **Python, Django**
+- 💬 Ask me about **Python, Django, React**
 
 - 📫 How to reach me **mohammed4elbalky@gmail.com**
 
